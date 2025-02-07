@@ -52,12 +52,6 @@ Use the `StatAnalysis/` directory to evaluate model performance and perform hypo
 
 ---
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## Contact
 
 For any inquiries or collaboration opportunities, feel free to open an issue or reach out to the maintainers.

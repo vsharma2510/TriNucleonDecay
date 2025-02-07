@@ -1,4 +1,5 @@
 # Project Overview
+This repository is dedicated to the search for Tri-Nucleon decay in CUORE (Cryogenic Underground Observatory for Rare Events). It utilizes a 3D Convolutional Neural Network to search for shower-like high energy and high multiplicty events based on event topolgy within the CUORE crystal array, with linear muons tracks as the background.
 
 This repository contains three main components for handling test data, preparing training datasets, training models, and performing statistical analysis. The workflow is structured into three main directories:
 
@@ -43,7 +44,6 @@ Navigate to the `DataPreparation/` directory and run the necessary preprocessing
 
 ### Simulation and Model Training
 Run the Geant4 Monte Carlo simulation scripts and model training within the `Simulation/` directory.
-
 
 ### Statistical Analysis
 Use the `StatAnalysis/` directory to evaluate model performance and perform hypothesis testing.

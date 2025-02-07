@@ -17,7 +17,9 @@ This repository contains three main components for handling test data, preparing
 ├── Simulation/        # Generates training data & trains models
 ├── StatAnalysis/      # Analyzes model performance and hypothesis testing
 ├── README.md          # Project documentation
-├── setup.sh           #Setting up environmental variables  
+├── setup.sh           #Setting up environmental variables for GEANT4 simulations
+├── requirements.txt   #List of pythono packages required
+
 ```
 
 ---
